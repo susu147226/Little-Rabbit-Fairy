@@ -11,7 +11,7 @@ import ElementPlus from 'element-plus'
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 import "dayjs/locale/zh-cn"
-
+import "@/style/commom.scss"
 
 
 const app = createApp(App)
